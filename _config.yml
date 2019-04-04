@@ -20,7 +20,7 @@ plugins:
   
 authors:
     sal:
-      name:           Ezgi Ericok
+      name:           Sal
       site:           
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
@@ -34,6 +34,14 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          
       twitter:        https://twitter.com/wowthemesnet
+      
+    ezgi:
+      name:           Ezgi Ericok
+      site:           
+      avatar:         /assets/images/ezgiericok.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          
+      twitter:        https://twitter.com/wowthemesnet      
  
 # Defaults
 defaults:
